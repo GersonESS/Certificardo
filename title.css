@@ -28,7 +28,8 @@ section h1 {
     border-radius: 55px;
     } 
 header{
-    background-image: url('https://cinepop.com.br/wp-content/uploads/2021/02/pokemon-list.jpg');
+    /*background-image: url('https://cinepop.com.br/wp-content/uploads/2021/02/pokemon-list.jpg');*/
+    background-image: url(pokemo.png);
     background-size: cover;
     height: 80px;
     border-radius: 5px;
